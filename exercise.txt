@@ -1,5 +1,6 @@
 renaming a file 
 deleting a file
+restoring aa file
 Amend the commit
 Using .gitignore
 Using git revert
